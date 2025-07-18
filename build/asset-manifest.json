@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/YashasvinyPortfolio/static/css/main.ba125de4.css",
+    "main.js": "/YashasvinyPortfolio/static/js/main.bb532f41.js",
+    "static/js/415.4d6acbeb.chunk.js": "/YashasvinyPortfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/YashasvinyPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.svg": "/YashasvinyPortfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/YashasvinyPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/YashasvinyVerma_July25MERN_00.pdf": "/YashasvinyPortfolio/static/media/YashasvinyVerma_July25MERN_00.587b9376d54b620ea124.pdf",
+    "static/media/timesheet.png": "/YashasvinyPortfolio/static/media/timesheet.076e26a97a07ab105d9d.png",
+    "static/media/logiverse.png": "/YashasvinyPortfolio/static/media/logiverse.54b23ff8522ff4e444b8.png",
+    "static/media/devconnect.webp": "/YashasvinyPortfolio/static/media/devconnect.313566be4de6a5a01611.webp",
+    "static/media/home-bg.jpg": "/YashasvinyPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.webp": "/YashasvinyPortfolio/static/media/avatar.b3b1c7ae2110bf49df75.webp",
+    "static/media/zoomroom.webp": "/YashasvinyPortfolio/static/media/zoomroom.24793fa72411e3ff48f4.webp",
+    "static/media/pre.svg": "/YashasvinyPortfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/YashasvinyPortfolio/index.html",
+    "main.ba125de4.css.map": "/YashasvinyPortfolio/static/css/main.ba125de4.css.map",
+    "main.bb532f41.js.map": "/YashasvinyPortfolio/static/js/main.bb532f41.js.map",
+    "415.4d6acbeb.chunk.js.map": "/YashasvinyPortfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/YashasvinyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba125de4.css",
+    "static/js/main.bb532f41.js"
+  ]
+}
